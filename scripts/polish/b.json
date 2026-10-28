@@ -1,0 +1,128 @@
+{
+"web-design-agency": {
+ "f": [["Laptop","Fast, Responsive Builds","Mobile-first sites that load quickly and look right on every screen."],["TrendingUp","SEO-ready from Day One","Clean structure, speed and metadata so search engines understand your site."],["ShieldCheck","Secure and Maintained","SSL, backups and updates handled so you never worry about downtime."],["Headset","Support After Launch","A real team on call for edits, training and new features."]],
+ "t": [["Dr. Kulkarni","Clinic owner","Online appointment bookings doubled within two months of the new site launching."],["Mr. Shah","Retail owner","They built our e-commerce store on time and walked us through managing products ourselves."]],
+ "q": [["How long does a business website take to build?","A typical business website takes 2-4 weeks from content approval to launch; e-commerce takes 4-6 weeks."],["Do you build online stores?","Yes, including product catalogues, payment gateway integration, shipping and inventory tools."],["Do you offer hosting and maintenance?","Yes, managed hosting, security and monthly maintenance plans are available."]]
+},
+"video-production": {
+ "f": [["Camera","Cinema-grade Equipment","4K cameras, gimbals, drones and lighting for a polished look."],["PenTool","Script to Screen","Concept, scripting, shooting and editing handled by one team."],["Clock","Predictable Turnaround","Clear delivery dates with preview edits for feedback."],["Music","Licensed Music and Voiceovers","Cleared tracks and professional voice artists included."]],
+ "t": [["Brand manager, Sanjeevani Retail","Retail brand","Our festive ad outperformed every previous campaign. The team understood our story immediately."],["Isha Patil","Wedding client","The film felt like a movie. Our parents watched it three times in one evening."]],
+ "q": [["How long does a brand film take to produce?","Planning and shooting take about a week; editing and revisions bring delivery to roughly 2-3 weeks."],["Do you shoot outside the city?","Yes, we travel across India and quote crew, travel and stay transparently."],["How many revisions are included?","Two rounds of revisions are included in each package."]]
+},
+"signboard": {
+ "f": [["Lamp","Bright Day and Night","High-lumen LED modules that stay clearly visible in sunlight and after dark."],["ShieldCheck","Built for Rain and Sun","Weatherproof materials and sealing so your board lasts for years."],["PenTool","Free Design Mock-up","See the board on your shopfront before you approve and pay."],["Clock","Ready in 3 Days","Most boards are designed, made and installed within a week."]],
+ "t": [["Mr. Patil","Shop owner","Our new glow sign pulled in far more evening customers. Installation was quick and clean."],["Ms. Rane","Boutique owner","They designed a lovely board that matches our brand. Still perfect after the monsoon."]],
+ "q": [["Do you install the signboard at my shop?","Yes, installation with safe fittings is included in the price within the city."],["How long do LED signs last?","Quality LED modules typically last 3-5 years with normal use."],["Do you help with municipal permissions?","We guide you on required permissions and help prepare the documents."]]
+},
+"preschool": {
+ "f": [["Baby","Safe and Nurturing Campus","CCTV monitoring, trained caregivers and child-safe furniture."],["Palette","Play-based Learning","Stories, art, music and activities that build curiosity early."],["Users","Small Class Sizes","A 1:10 teacher ratio so each child gets individual attention."],["Heart","Nutritious Snacks","Healthy meals prepared hygienically on campus."]],
+ "t": [["Mrs. Shinde","Parent","My son runs to the gate every morning. The teachers are warm and he has learned so much."],["Mr. Rane","Parent","Regular updates, a clean campus and caring staff. We feel completely at ease."]],
+ "q": [["At what age can my child join?","Children from 2 years old can join our playgroup, followed by Nursery, LKG and UKG."],["Do you provide school transport?","Yes, safe vans with attendants cover most areas of the city."],["Are your teachers trained in early childhood education?","Yes, all teachers hold early childhood certifications and receive regular training."]]
+},
+"pet-training": {
+ "f": [["Heart","Positive, Force-free Methods","Reward-based training that builds trust instead of fear."],["Users","You Train Alongside Your Dog","Owners learn to handle, cue and reinforce good behaviour at home."],["Home","Home Sessions Available","Trainers visit your home to tackle real-life behaviour problems."],["BadgeCheck","Certified Behaviourists","Trainers with formal canine behaviour certification and years of practice."]],
+ "t": [["Rahul Joshi","Labrador owner","Three weeks in and my dog finally walks on a loose leash and comes when called."],["Neha Kulkarni","Puppy parent","House training took days instead of months. The trainer was patient with both of us."]],
+ "q": [["At what age should training begin?","Basic training and socialisation can begin from 8 weeks. Older dogs can learn too."],["How many sessions will my dog need?","Basic obedience typically takes 10-15 sessions; behaviour issues vary by case."],["Do you train all dog breeds?","Yes, from small breeds to large guard breeds, using methods suited to each temperament."]]
+},
+"pet-grooming": {
+ "f": [["PawPrint","Gentle, Patient Handling","Groomers trained to keep anxious pets calm and comfortable."],["Sparkles","Vet-approved Products","Skin-safe shampoos and conditioners for sensitive coats."],["Home","Mobile Grooming Van","We come to your doorstep, so your pet avoids the travel stress."],["ShieldCheck","Sanitised Tools","Clean tools and a sanitised table for each pet."]],
+ "t": [["Sneha Patil","Dog parent","My nervous dog trotted in happily. She came home smelling fresh and looking adorable."],["Rohit Joshi","Cat parent","They were so gentle with my cat. I could not believe how calm she stayed."]],
+ "q": [["Do you groom cats as well as dogs?","Yes, cats and dogs of all sizes, with handling suited to each."],["How long does a grooming session take?","Between 1 and 2 hours, depending on the breed, coat and services chosen."],["Do you offer home grooming visits?","Yes, our mobile van covers the city for a small additional charge."]]
+},
+"nail-art": {
+ "f": [["Sparkles","Custom Nail Art","Hand-painted designs, from minimal French tips to full festive sets."],["Gem","Gel and Acrylic Extensions","Long-lasting, chip-free finishes with a variety of shapes."],["ShieldCheck","Hygiene You Can See","Sterilised tools and single-use files for every client."],["Clock","Quick Appointments","Short waits and clear timings for each service."]],
+ "t": [["Simran Kaur","Gel manicure","My nails looked flawless for three weeks. The finishing is super neat."],["Anu Deshmukh","Bridal nails","The nail art matched my lehenga perfectly. I got compliments all evening."]],
+ "q": [["How long do gel nails last?","With normal use, gel nails stay glossy and intact for two to three weeks."],["Do you offer nail extensions?","Yes, acrylic and gel extensions in several shapes and lengths."],["Can I bring a design from Instagram?","Absolutely. Share a reference and we recreate or adapt it to your nail shape."]]
+},
+"language-institute": {
+ "f": [["Users","Conversation-based Classes","You speak from the first session, with a focus on real-life situations."],["Award","Exam-oriented Courses","Preparation for IELTS, Goethe, DELF and other certified exams."],["Clock","Flexible Batches","Morning, afternoon and evening timings for students and professionals."],["BadgeCheck","Experienced, Certified Teachers","Trainers with language certifications and teaching experience."]],
+ "t": [["Rohan Kulkarni","German learner","The classes were interactive and focused. I cleared my A2 exam on my first attempt."],["Priya Joshi","Spoken English learner","I now present confidently at work. My communication has transformed."]],
+ "q": [["Can complete beginners join the language courses?","Yes. All courses begin from level zero and progress step by step."],["Do you offer online classes?","Yes, live online batches follow the same curriculum as classroom batches."],["Do you prepare students for IELTS and other exams?","Yes, with mock tests, speaking practice and personalised feedback."]]
+},
+"jewellery": {
+ "f": [["BadgeCheck","BIS Hallmarked Gold","All gold jewellery carries BIS hallmarking for purity assurance."],["Gem","Certified Diamonds","IGI and GIA certified diamonds with full documentation."],["Hammer","Bespoke Design Service","Custom pieces crafted by our karigars from your sketch or idea."],["Wallet","Transparent Pricing","Clear gold rate, making charges and wastage on every bill."]],
+ "t": [["Mrs. Kulkarni","Bridal set","Our family has bought here for three generations. The bridal set was exquisite."],["Mr. Shah","Anniversary gift","Honest pricing and beautiful craftsmanship. My wife loved the pendant."]],
+ "q": [["Is your gold BIS hallmarked?","Yes, all our gold jewellery is BIS hallmarked, and the bill shows purity and weight."],["Can you make custom jewellery?","Yes. Share a sketch or reference and our karigars will craft it with a design approval."],["Do you offer exchange on old gold?","Yes, old gold can be exchanged at the day's rate with transparent deductions."]]
+},
+"hotel": {
+ "f": [["BedDouble","Comfortable Rooms","Premium bedding, quiet air-conditioning and clean bathrooms."],["UtensilsCrossed","In-house Restaurant","Multi-cuisine dining and room service from morning to night."],["Wifi","Fast Complimentary Wi-Fi","Reliable internet throughout the hotel for work and leisure."],["Car","Secure Parking","Free parking for guests, with staff assistance for luggage."]],
+ "t": [["Mr. Gupta","Business traveller","Spotless rooms, quick check-in and a very convenient location."],["Mrs. Rao","Family guest","The staff were wonderful with our children and breakfast was delicious."]],
+ "q": [["What are your check-in and check-out times?","Check-in is from 2 PM and check-out by 11 AM, with early and late options subject to availability."],["Is breakfast included in the room rate?","Yes, a complimentary buffet breakfast is included with most room bookings."],["Do you arrange airport or railway pick-ups?","Yes, pick-up and drop can be arranged on request at nominal charges."]]
+},
+"fabrication-welding": {
+ "f": [["Wrench","Precision Fabrication","Accurate cutting, welding and fitting for strong, neat structures."],["Hammer","Custom Designs","Gates, grills, sheds and staircases made to your design and site."],["ShieldCheck","Rust-resistant Finish","Primer and paint applied for long life against weather."],["Clock","On-schedule Installation","We commit to dates and finish the job on site."]],
+ "t": [["Mr. Patil","Gate client","The gate is sturdy, neatly welded and perfectly aligned. Installed in a single day."],["Mr. Kadam","Factory owner","They fabricated our storage shed on schedule and within budget."]],
+ "q": [["Do you work with both mild steel and stainless steel?","Yes, we fabricate in MS and SS, including polishing for stainless finishes."],["Do you install fabricated items at my site?","Yes, installation is included for most jobs within the city."],["Can you work from my design or drawing?","Yes, we build from your drawing or help prepare one."]]
+},
+"drone-photography": {
+ "f": [["Video","4K Aerial Footage","Smooth, cinematic footage with colour grading."],["ShieldCheck","Licensed Drone Pilots","DGCA-compliant operations with all permissions handled."],["MapPin","Site Surveys and Mapping","Orthomosaic maps and progress shots for builders and planners."],["Clock","Quick Edited Delivery","Edited reels and photos within 2-3 days."]],
+ "t": [["Builder Mr. Patil","Real estate client","The aerial walkthrough helped us sell plots faster. Footage was crisp and professional."],["Isha Kulkarni","Wedding client","The aerial shots of our venue were breathtaking, and the pilot was discreet."]],
+ "q": [["Do you handle drone permissions?","Yes. We take care of the required permissions and follow all flight regulations."],["Can you shoot weddings and events?","Yes, discreet aerial coverage for weddings, concerts and sports events."],["Do you offer property mapping and survey services?","Yes, aerial mapping and 3D models for construction and land projects."]]
+},
+"coworking-space": {
+ "f": [["Wifi","Gigabit Internet","Fast and redundant connectivity for calls and uploads."],["Coffee","Unlimited Coffee and Tea","A well-stocked pantry to keep you going."],["Users","Bookable Meeting Rooms","Professional rooms for client meetings and team huddles."],["Clock","24x7 Member Access","Work early, late or on weekends with biometric entry."]],
+ "t": [["Aman Joshi","Startup founder","We started with two desks and now have a private cabin. The community here is great."],["Neha Patil","Freelancer","Far more productive than working from home, and a good place to meet clients."]],
+ "q": [["Can I take a day pass before becoming a member?","Yes, day passes and a free trial day are available."],["Is parking available?","Yes, parking for cars and two-wheelers is included."],["Can I use your address as my business address?","Yes, business address and mail-handling plans are available."]]
+},
+"computer-training": {
+ "f": [["Monitor","One Student, One System","Every learner gets their own computer for hands-on practice."],["Briefcase","Placement Assistance","Resume help, mock interviews and referrals to local employers."],["Award","Recognised Certificates","Certificates valuable for jobs and further studies."],["Clock","Flexible Batches","Weekday, weekend and fast-track batches."]],
+ "t": [["Pratik Patil","Tally student","I was hired as an accountant within a month of finishing the course."],["Sneha Kulkarni","Web design student","I built my own portfolio site during the course and landed my first client."]],
+ "q": [["Do I need computer knowledge before joining?","No. Beginner courses start from the basics."],["Is a demo class available?","Yes, a free demo class lets you experience the teaching."],["Do you help with job placement?","Yes, through our placement cell and tie-ups with local companies."]]
+},
+"boutique-tailor": {
+ "f": [["Ruler","Perfect Fit Guaranteed","Careful measurements and trial fittings so clothes fit beautifully."],["Palette","Custom Designs","From your sketch, a reference photo or our design suggestions."],["Clock","Timely Delivery","Garments ready before your event, with clear dates."],["BadgeCheck","Neat, Durable Finishing","Strong seams, lining and detailing you can feel."]],
+ "t": [["Madhavi Joshi","Blouse stitching","Every blouse fits like a glove. The finishing is the best I have found."],["Rohan Patil","Suit client","My wedding suit was perfectly tailored and delivered two days early."]],
+ "q": [["How long does stitching take?","Usually 7-10 days; urgent orders can be completed in 3-4 days."],["Do you do alterations?","Yes, for all types of garments, including those bought elsewhere."],["Can I bring my own fabric?","Yes, we stitch from your fabric or help you select it."]]
+},
+"translator": {
+ "f": [["Languages","Certified Translators","Native-level translators with subject expertise."],["Lock","Strict Confidentiality","NDAs and secure handling for legal and business documents."],["Clock","24-hour Rush Service","Urgent translations delivered within a day."],["FileCheck","Notarised and Certified Copies","Translations acceptable for embassies, universities and courts."]],
+ "t": [["Study abroad client","Student","My documents were translated and certified in two days, and the embassy accepted them."],["Company director","Business client","The product manual translation was accurate and consistent across 100 pages."]],
+ "q": [["Which languages do you translate?","English, Hindi, Marathi, German, French, Spanish and more."],["Do you offer interpretation services?","Yes, for meetings, conferences and court proceedings."],["Are your translations certified?","Yes, we provide certified and notarised translations."]]
+},
+"tattoo-studio": {
+ "f": [["PenTool","Custom Artwork","Every design is drawn specifically for you, never copied."],["ShieldCheck","Sterile, Single-use Setup","New needles and a sanitised workstation for each client."],["Users","Skilled Artists","Specialists in realism, minimalist, traditional and lettering."],["Heart","Aftercare Support","Healing guidance and a free touch-up session."]],
+ "t": [["Arjun Mehta","Sleeve client","The detail in my sleeve is incredible, and it healed beautifully."],["Meera Shah","First tattoo","I was nervous but felt safe and comfortable throughout."]],
+ "q": [["Does getting a tattoo hurt?","Some discomfort is normal, varying by placement; artists work to keep you comfortable."],["How do I book a tattoo session?","Start with a consultation to finalise design and placement, then book a slot with a small deposit."],["How hygienic is your studio?","We use single-use needles and gloves, and sterilise all equipment."]]
+},
+"social-media": {
+ "f": [["TrendingUp","Consistent Growth Plans","Monthly calendars and campaigns that build followers and sales."],["Video","Reel-first Content","Short videos that travel on Instagram and YouTube Shorts."],["Users","Community Management","Replies and DMs handled in your brand voice."],["FileText","Monthly Performance Reports","Plain-language reports of reach, leads and results."]],
+ "t": [["Cafe owner Rohan","Local cafe","Our followers tripled in four months and weekend footfall is up noticeably."],["Salon owner Neha","Beauty salon","Instagram has become our biggest source of bookings."]],
+ "q": [["Which platforms do you manage?","Instagram, Facebook, LinkedIn, YouTube and Google Business Profile."],["Do I need to provide content?","No. We plan, shoot and edit content, though your input is welcome."],["Is there a minimum contract period?","We recommend 3 months to see consistent results."]]
+},
+"school": {
+ "f": [["BookOpen","Strong Academic Foundation","Concept-based teaching with regular assessments and remedial support."],["Award","Sports and Arts","Wide co-curricular programmes, from cricket to classical music."],["ShieldCheck","Safe Campus","CCTV, trained security and caring staff."],["Users","Qualified, Caring Teachers","Teachers who know each student by name."]],
+ "t": [["Mrs. Patil","Parent","Discipline and care in equal measure. My daughter has grown in confidence."],["Rahul Desai","Alumnus","The school shaped my career. Teachers pushed me to dream bigger."]],
+ "q": [["Which board does the school follow?","We follow the state board curriculum, with CBSE options for selected classes."],["Is school transport available?","Yes, safe buses cover most areas with trained attendants."],["How do I apply for admission?","Collect the admission form from the office or download it from our website."]]
+},
+"saree-showroom": {
+ "f": [["Crown","Exclusive Collections","Paithani, Banarasi, Kanjeevaram and designer sarees."],["BadgeCheck","Authentic Handloom and Silk","Certified fabrics with purity assurance."],["Gift","Bridal Trousseau Shopping","Complete wedding collections with personal assistance."],["Wallet","Fixed, Fair Prices","No bargaining and no hidden charges."]],
+ "t": [["Mrs. Kulkarni","Wedding shopping","We found everything for my daughter's wedding in one visit. Staff were patient and knowledgeable."],["Anjali Deshpande","Paithani buyer","The Paithani is genuine and beautiful. Worth every rupee."]],
+ "q": [["Do you provide blouse stitching and fall-pico?","Yes, we offer both services with quick turnaround."],["Do you ship sarees across India?","Yes, safely packed and insured."],["What is your exchange policy?","Unused sarees with the bill can be exchanged within 7 days."]]
+},
+"property-dealer": {
+ "f": [["BadgeCheck","Verified Listings","Property documents are checked before we list."],["FileCheck","Agreement and Registration Help","Support with sale deeds, rent agreements and registration."],["Map","Local Market Knowledge","Deep understanding of prices and localities."],["Handshake","Fair, Transparent Negotiation","Win-win deals and no hidden charges."]],
+ "t": [["Mr. Shinde","Seller","They found a buyer in three weeks at a price better than I expected."],["Mrs. Kale","Tenant","Found me a suitable flat in my budget within days."]],
+ "q": [["What commission do you charge?","A standard market commission, agreed upfront in writing."],["Do you list plots and agricultural land?","Yes, residential plots, commercial land and agricultural land."],["Do you help with rental agreements?","Yes, drafting and registration included."]]
+},
+"mehendi-artist": {
+ "f": [["Palette","Custom Bridal Designs","Arabic, Rajasthani, Indo-Western and personalised motifs."],["Leaf","Natural, Chemical-free Henna","Fresh organic cones that stain dark without irritation."],["Clock","Dark, Long-lasting Colour","Colour that deepens beautifully over 24-48 hours."],["Users","Team for Bridal Parties","Several artists for the whole family and bridal party."]],
+ "t": [["Priyanka Joshi","Bride","The colour was deep and the design was exquisite, with our names hidden inside."],["Mrs. Shinde","Karva Chauth","Neat, quick and beautiful. Every guest asked for her number."]],
+ "q": [["How long does bridal mehendi take?","Full bridal hands and feet take 3-5 hours, depending on design complexity."],["Do you travel to homes and venues?","Yes, we visit homes, hotels and wedding venues."],["Is your henna safe for sensitive skin?","We use natural henna paste without chemicals, and advise a patch test."]]
+},
+"makeup": {
+ "f": [["Brush","Premium Products","MAC, Huda Beauty and Bobbi Brown for lasting, photo-ready looks."],["Sparkles","Long-lasting HD Finish","Makeup that stays flawless through hours of events."],["Users","Trial Sessions","Perfect your bridal look well before the wedding."],["MapPin","Travel to You","Home, hotel and venue service for bridal parties."]],
+ "t": [["Isha Patil","Bride","I looked flawless in every photo and the makeup lasted from morning till midnight."],["Radhika Joshi","Engagement client","She understood my style immediately. I loved my look."]],
+ "q": [["Do you offer a makeup trial before the wedding?","Yes, trials are available so you can finalise your look in advance."],["Do you travel to my venue?","Yes, travel charges depend on distance."],["How early should I book for my wedding date?","Two to three months ahead for peak season dates."]]
+},
+"home-tutor": {
+ "f": [["UserCheck","Verified, Qualified Tutors","Background-checked teachers with subject expertise."],["BookOpen","Plans Tailored to Your Child","Lessons designed around your child's pace and syllabus."],["Clock","Flexible Timings","Slots that fit school hours and activities."],["Award","Monthly Progress Reports","Clear updates for parents on improvement and areas to focus on."]],
+ "t": [["Mrs. Sathe","Class 8 parent","Her maths marks rose from 52 to 84 in one term. The tutor was patient and encouraging."],["Rohit Jadhav","Class 10 student","Algebra finally makes sense. My tutor explains things in a way that sticks."]],
+ "q": [["Can we try a free trial class?","Yes, the first class is free so you can check the tutor's fit."],["Which boards and classes do you cover?","CBSE, ICSE and State boards, from primary to Class 12."],["Do you offer online tuition?","Yes, live online sessions with the same tutors."]]
+},
+"freelancer": {
+ "f": [["Clock","Deadlines I Respect","Clear timelines and on-time delivery with regular updates."],["Headset","Direct Communication","Work directly with me on WhatsApp, email or call, no middlemen."],["Sparkles","Quality and Detail","Careful, polished work with attention to the small things."],["ShieldCheck","Revisions Until You Are Happy","Reasonable revisions included in every project."]],
+ "t": [["Rohan Mehta","Startup founder","Fast, professional and genuinely invested in the outcome. We have worked together on five projects."],["Neha Joshi","Agency owner","Reliable and a pleasure to collaborate with. Deliverables always exceed expectations."]],
+ "q": [["How do we get started on a project?","Share a short brief and I will send a proposal with scope, timeline and price within a day."],["Do you offer revisions?","Yes, a set number of revision rounds are included in every project."],["What are your payment terms?","Typically 50% advance and 50% on delivery for smaller projects, with milestones for larger ones."]],
+ "m": [["Your Name","Independent Professional","Solo freelancer with eight years of experience across brands and startups."]]
+}
+}

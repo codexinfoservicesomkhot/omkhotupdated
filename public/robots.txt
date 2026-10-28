@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /login$
+Disallow: /login/
+Disallow: /signup$
+Disallow: /signup/
+Disallow: /forgot-password$
+Disallow: /forgot-password/
+Disallow: /create$
+Disallow: /create/
+Disallow: /dashboard$
+Disallow: /dashboard/
+Disallow: /admin$
+Disallow: /admin/
+Disallow: /payment$
+Disallow: /payment/
+Disallow: /business$
+Disallow: /business/
+
+Sitemap: https://www.cresite.in/sitemap.xml
